@@ -57,6 +57,7 @@ Ou seja, a tokenização em nível de palavra não é ideal para idiomas como ch
 
 
 Fontes:
+<br>
 **1**: 
 * https://www.rws.com/language-weaver/blog/issue-121-finding-the-optimal-vocabulary-size-for-neural-machine-translation/
 * A seção 4 desse artigo evidência porque o tamnaho de alguns vocabulários são melhores que outros:
